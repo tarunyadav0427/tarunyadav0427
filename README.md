@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\Sony\Downloads\tarunyadav0427@gmail.com.png)]
+[![MasterHead](https://github.com/tarunyadav0427/tarunyadav0427/commit/b156060419b9c82a8d501979c9117cb7742a93ac)]
 <h1 align="center">Hi 👋, I'm Tarun Yadav</h1>
 <h3 align="center">Decoding Data: A Visual Symphony of Patterns and Insights - The Thrilling Journey of a Data Analyst on GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6089095-Icon-animation">
