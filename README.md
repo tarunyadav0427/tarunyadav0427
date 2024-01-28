@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/tarunyadav0427/tarunyadav0427/commit/b156060419b9c82a8d501979c9117cb7742a93ac)]
+![MasterHead](https://github.com/tarunyadav0427/tarunyadav0427/blob/main/tarunyadav0427%40gmail.com.png)
 <h1 align="center">Hi 👋, I'm Tarun Yadav</h1>
 <h3 align="center">Decoding Data: A Visual Symphony of Patterns and Insights - The Thrilling Journey of a Data Analyst on GitHub</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6089095-Icon-animation">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2FGpTRH5XMSBb76Y-TuIzj8XG0_aYF87Xw&usqp=CAU">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunyadav0427&label=Profile%20views&color=0e75b6&style=flat" alt="tarunyadav0427" /> </p>
